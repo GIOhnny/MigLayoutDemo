@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MigLayoutDemo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/MigLayoutDemo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
